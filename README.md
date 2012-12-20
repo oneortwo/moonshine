@@ -7,10 +7,9 @@ Started playing with *node.js*, nice video [about it](http://www.youtube.com/wat
 
 ## Prerequisites
 - [node.js](https://github.com/joyent/node/wiki/Installation)
-- connect, just run `npm install connect`
 
 ## How to do it
 - Check out this projekt
-- install connect, see above
+- install connect, just run `npm install connect` in the project folder
 - run `node moonshine.js`
 
