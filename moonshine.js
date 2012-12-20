@@ -16,4 +16,4 @@ fs.writeFile("/tmp/test", "Hey there!", function(err) {
     }
 });
 
-console.log("web server started");
+console.log("web server started at http://localhost:8080");
