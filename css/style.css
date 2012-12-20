@@ -1,0 +1,51 @@
+body {
+	max-width: 1400px;
+	margin: 0 auto;
+}
+
+#last-update {
+	position: absolute;
+	margin: 0px 0px;
+	color: #777;
+}
+
+p, li, h3 {
+	font-size: 2em;
+	line-height: 1em;
+}
+
+h1 img {
+	height: 1em;
+	width: 1em;
+	margin-right: 20px;
+}
+
+h1,h2,h3 {
+	margin-top: 1em;
+}
+
+h1 {
+	margin-left: -2em;
+	font-size: 6em;
+	text-align: center;
+}
+
+h2 {
+	font-size: 4em;
+}
+.table td, .table th {
+	line-height: 1em;
+}
+
+table {
+	margin-top: 1em;
+	font-size: 2em;
+}
+
+strong,em {
+	color: #d44;
+}
+
+.highlight {
+	color: #8F1;
+}
