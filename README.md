@@ -13,3 +13,6 @@ Started playing with *node.js*, nice video [about it](http://www.youtube.com/wat
 - install connect, just run `npm install connect` in the project folder
 - run `node moonshine.js`
 
+## Sample
+![Sample screenshot](http://imgur.com/5VT6y)
+
