@@ -14,5 +14,5 @@ Started playing with *node.js*, nice video [about it](http://www.youtube.com/wat
 - run `node moonshine.js`
 
 ## Sample
-![Sample screenshot](http://imgur.com/5VT6y)
+![Sample screenshot](http://i.imgur.com/5VT6y.png)
 
